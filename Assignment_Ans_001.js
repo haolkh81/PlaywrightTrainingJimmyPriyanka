@@ -58,7 +58,6 @@ Then answer:
 
 =================================
 */
-
 /*Answer
 1. Identify the datatype
 Create variables for the following values and identify their datatype:
